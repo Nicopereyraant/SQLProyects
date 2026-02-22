@@ -1,0 +1,16 @@
+user_id,first_name,last_name,email,document_type,document
+1,Juan,Pérez,juan.perez@email.com,DNI,12345678
+2,María,Gómez,maria.gomez@email.com,DNI,87654321
+3,Carlos,López,carlos.lopez@email.com,Pasaporte,11223344
+4,Ana,Martínez,ana.martinez@email.com,DNI,22334455
+5,Luis,Fernández,luis.fernandez@email.com,DNI,33445566
+6,Laura,García,laura.garcia@email.com,Pasaporte,44556677
+7,Pedro,Sánchez,pedro.sanchez@email.com,DNI,55667788
+8,Sofía,Romero,sofia.romero@email.com,DNI,66778899
+9,Diego,Torres,diego.torres@email.com,DNI,77889900
+10,Valentina,Ruiz,valentina.ruiz@email.com,Pasaporte,88990011
+11,Andrés,Castro,andres.castro@email.com,DNI,99001122
+12,Camila,Díaz,camila.diaz@email.com,DNI,10111213
+13,Javier,Morales,javier.morales@email.com,DNI,14151617
+14,Lucía,Herrera,lucia.herrera@email.com,Pasaporte,18192021
+15,Martín,Silva,martin.silva@email.com,DNI,22232425

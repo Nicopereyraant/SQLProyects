@@ -1,0 +1,11 @@
+scooter_id,last_station_id,model,year,battery_level,scooter_condition
+1,1,Xiaomi Mi 3,2023,95.50,Óptimo
+2,1,Ninebot Max,2023,40.00,Requiere Mantenimiento
+3,2,Xiaomi Mi 3,2023,100.00,Óptimo
+4,2,Segway Ninebot ES4,2022,15.50,Batería Baja
+5,3,Xiaomi Mi 3,2023,80.00,Óptimo
+6,4,Ninebot Max,2023,100.00,Óptimo
+7,4,Xiaomi Mi Electric,2022,55.00,Óptimo
+8,5,Segway Ninebot ES4,2022,0.00,En Reparación
+9,5,Xiaomi Mi 3,2023,90.00,Óptimo
+10,6,Ninebot Max,2022,75.50,Óptimo

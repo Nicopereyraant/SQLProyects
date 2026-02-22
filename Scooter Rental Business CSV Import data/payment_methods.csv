@@ -1,0 +1,19 @@
+pay_method_id,user_id,method_type,card_last_digits,expiration_date
+1,1,Tarjeta de Crédito,1234,2025-12-31
+2,1,Mercado Pago,9999,2028-01-01
+3,2,Tarjeta de Débito,5678,2024-10-31
+4,3,Tarjeta de Crédito,9012,2026-05-31
+5,3,Transferencia,0,2030-12-31
+6,4,Mercado Pago,1111,2027-01-01
+7,5,Tarjeta de Crédito,2222,2024-08-31
+8,6,Tarjeta de Débito,3333,2025-02-28
+9,7,Tarjeta de Crédito,4444,2026-11-30
+10,8,Transferencia,5555,2030-12-31
+11,9,Tarjeta de Crédito,6666,2025-07-31
+12,10,Tarjeta de Débito,7777,2024-09-30
+13,11,Mercado Pago,8888,2028-03-31
+14,12,Tarjeta de Crédito,9999,2025-04-30
+15,13,Tarjeta de Débito,1010,2026-06-30
+16,14,Tarjeta de Crédito,1212,2027-08-31
+17,15,Tarjeta de Débito,3434,2024-12-31
+18,15,Mercado Pago,5050,2029-01-01
