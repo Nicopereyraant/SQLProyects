@@ -1,0 +1,11 @@
+review_id,trip_id,rating,user_comment,review_date
+1,1,5,Excelente estado del monopatín y muy rápido.,2023-10-01 11:00:00
+2,2,4,Todo bien pero la estación de llegada estaba casi llena.,2023-10-03 15:30:00
+3,3,5,El mejor servicio de la zona súper recomendable.,2023-10-02 16:00:00
+4,4,2,El monopatín hacía un ruido extraño en el manubrio.,2023-10-04 10:15:00
+5,5,3,Normal la batería bajó muy rápido durante el viaje.,2023-10-05 12:30:00
+6,6,5,Súper cómodo y fácil de usar por la aplicación.,2023-10-06 15:00:00
+7,7,4,Buen viaje aunque tardé en desbloquearlo con el código.,2023-10-07 18:00:00
+8,8,5,Impecable. Llegué a tiempo al trabajo sin tráfico.,2023-10-08 19:30:00
+9,9,1,Se apagó a mitad de camino y tuve que caminar.,2023-10-09 09:00:00
+10,10,5,Excelente experiencia sin dudas volveré a usarlo.,2023-10-10 14:00:00

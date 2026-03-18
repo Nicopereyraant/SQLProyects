@@ -1,0 +1,11 @@
+maintenance_id,scooter_id,staff_id,maintenance_date,service_detail,repair_cost
+1,2,1,2023-10-10 09:00:00,Cambio de pastillas de freno,1500.50
+2,4,3,2023-10-12 14:30:00,Ajuste de columna de dirección,850.00
+3,8,2,2023-10-15 11:00:00,Carga profunda y balanceo de celdas,500.00
+4,1,1,2023-10-20 08:15:00,Reemplazo de luz LED trasera,1200.00
+5,5,5,2023-10-21 10:00:00,Cambio de neumáticos,3000.00
+6,7,3,2023-10-22 16:45:00,Calibración de frenos,600.00
+7,2,1,2023-10-25 09:30:00,Ajuste de suspensión,950.00
+8,10,2,2023-10-26 12:00:00,Revisión general y carga de batería,200.00
+9,6,3,2023-10-28 15:15:00,Cambio de placa base y motor,5500.00
+10,9,1,2023-10-30 11:45:00,Limpieza y lubricación general,800.00
